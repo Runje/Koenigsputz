@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Koenigsputz</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_overview">Koenigsputz</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Name">Name</string>
+    <string name="enter_name_or_import">Namen eingeben oder Daten importieren</string>
+    <string name="ok">OK</string>
+    <string name="import_file">Datei importieren</string>
+    <string name="enter_name">Bitte einen Namen eingeben</string>
+    <string name="not_implemented">NOCH NICHT IMPLEMENTIERT</string>
+    <string name="clean_plan">Putzplan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="responsible">Zuständiger</string>
+    <string name="Description">Beschreibung</string>
+    <string name="Difficulty">Schwierigkeit</string>
+    <string name="DurationInMin">Dauer in Min</string>
+    <string name="Once">Einmalig</string>
+    <string name="first_execution">1. Ausführung</string>
+    <string name="frequency">Häufigkeit</string>
+    <string name="weekly">Wöchentlich</string>
+    <string name="monthly">Monatlich</string>
+    <string name="yearly">Jährlich</string>
+    <string name="save_as_template">Als Vorlage speichern</string>
+    <string name="new_task">Neue Aufgabe</string>
+    <string name="date">Datum</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="execution">Ausführung</string>
+    <string name="not_connected">Keine Verbindung</string>
+    <string name="connected">Verbindung</string>
+    <string name="overview">Übersicht</string>
+    <string name="template">Vorlage</string>
+    <string name="statistic">Statistik</string>
+    <string name="today">Heute</string>
+    <string name="tomorrow">Morgen</string>
+</resources>
